@@ -1,10 +1,10 @@
 {
-  "name": "{{pluginName}}",
+  "name": "opencode-ppq-plugin",
   "version": "0.1.0",
-  "description": "{{description}}",
+  "description": "OpenCode plugin adding PPQ.ai provider",
   "author": {
-    "name": "{{authorName}}",
-    "email": "{{authorEmail}}"
+    "name": "webwarrior-ws",
+    "email": "reg@webwarrior.ws"
   },
   "type": "module",
   "exports": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "{{repositoryUrl}}"
+    "url": "https://github.com/webwarrior-ws/opencode-ppq-plugin"
   },
   "publishConfig": {
     "access": "public",
